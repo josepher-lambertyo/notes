@@ -23,3 +23,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging the inevitability of encountering unexpected user behavior or input. It serves as a reminder to always consider the potential limitations and vulnerabilities of our code, and to strive for continuous improvement in our programming practices.
+
+# 2023-11-21
+- "Keep it simple, stupid!"
