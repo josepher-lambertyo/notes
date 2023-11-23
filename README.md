@@ -33,3 +33,6 @@ This quote highlights the ongoing challenge for programmers to create robust and
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed. 
  -
 Next, planning ahead is crucial. Before starting a new project or undertaking a large task, take some time to think through the steps involved. Break the project down into smaller, manageable pieces, then allocate time for each step. Doing so will ensure that your work is structured and that nothing gets overlooked. Planning also helps you stay on track and makes it easier to adjust your schedule if needed without getting derailed.
+
+# 2023-11-23
+- "Keep it simple, stupid!"
