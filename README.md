@@ -103,3 +103,8 @@ Use task management tools, such as Trello or Asana, to keep track of your progre
 
 # 2023-12-07
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and potential challenges. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these tips, you will be able to better manage your workload and achieve your goals more effectively.
+
+# 2023-12-08
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potentially introduce new bugs. It's important to write clear, readable code first and optimize only when profiling indicates a bottleneck.
