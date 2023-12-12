@@ -117,3 +117,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 # 2023-12-11
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This means that trying to optimize code before it's necessary can lead to more problems than it solves, such as making code harder to read and maintain. It's better to write clear and simple code first, then optimize only if profiling shows that specific parts are causing performance issues.
+
+# 2023-12-12
+- "Keep it simple, stupid!"
