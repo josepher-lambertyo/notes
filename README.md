@@ -123,3 +123,9 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 # 2023-12-13
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's easy to get caught up in trying to create complex and elegant solutions, but often the best code is the code that is easiest to understand and modify. This means using clear variable names, commenting your code thoroughly, and breaking down complex problems into smaller, more manageable pieces. Additionally, it's important to always keep scalability and future maintenance in mind. Writing code that is easy to update and extend will save time and headaches down the road. Remember, code is read far more often than it is written, so prioritize clarity and simplicity in all of your programming endeavors.
+
+# 2023-12-14
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as keeping an eye on emerging trends and technologies.
+
+To be successful as a programmer, you must also develop strong problem-solving skills and a passion for innovation. By constantly challenging yourself and pushing the boundaries of what is possible, your knowledge will grow and your skills will become more refined. Remember that every problem is an opportunity to learn and grow as an engineer. 
+ - 来自NLP
