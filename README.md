@@ -129,3 +129,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 To be successful as a programmer, you must also develop strong problem-solving skills and a passion for innovation. By constantly challenging yourself and pushing the boundaries of what is possible, your knowledge will grow and your skills will become more refined. Remember that every problem is an opportunity to learn and grow as an engineer. 
  - 来自NLP
+
+# 2023-12-15
+- "Keep it simple, stupid!"
