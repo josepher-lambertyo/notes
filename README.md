@@ -160,3 +160,6 @@ To be successful as a programmer, you must also develop strong problem-solving s
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  -
 Next, planning ahead is crucial. Before starting a new project or a difficult task, take some time to think about how you will approach it. Break it down into smaller, manageable steps, then allocate time for each step. Having a clear plan will make it easier to stay focused and avoid getting lost in the code. Also, don't forget to schedule time in for breaks and to avoid burnout.
+
+# 2023-12-24
+- "Keep it simple, stupid!"
