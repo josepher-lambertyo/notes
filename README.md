@@ -172,3 +172,10 @@ Next, planning ahead is crucial. Before starting a new project or a difficult ta
 
 # 2023-12-27
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex systems tend to be more fragile and harder to maintain. Always strive to write clean, concise, and readable code that solves the problem at hand without unnecessary complexity. Remember, code is read far more often than it is written, so prioritize clarity and understandability over cleverness or optimization."
+
+# 2023-12-28
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the "MoSCoW" method to categorize your task as Must have, Should have or Could have.This will make sure you are focusing your efforts on the most important aspects of a problem. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的错误和更改。使用版本控制系统，如Git，可以帮助你跟踪代码的更改，以便在需要时可以轻松地回滚到之前的版本。
+ 最后，保持组织。一个整洁、有组织的代码库可以帮助您更容易地找到和修复错误。遵循编程最佳实践，例如使用有意义的变量名、添加注释和遵循代码风格指南，可以使您的代码更易于阅读和维护。通过定期审查和重构代码，您可以确保代码始终保持在最佳状态。总之，通过优先处理任务、提前计划和保持代码组织，您将能够更有效地进行编程工作，从而提高生产力和成功率。
