@@ -185,3 +185,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-30
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex code may seem impressive, but it often leads to bugs, maintenance issues, and difficulty in collaboration. Strive to write clean, readable, and concise code that solves the problem at hand efficiently. Remember, you write code not just for the computer to understand but also for other developers to read and comprehend easily. And always keep in mind that tomorrow you might be the one reading and modifying your code."
+
+# 2023-12-31
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read far more often than it is written. Strive for clarity and simplicity in your expressions, variable names, and overall structure. Comment your code effectively, explaining the why rather than the what. Refactor frequently to eliminate complexity and duplication. Lastly, remember that programming is a collaborative effort; consider other developers who may encounter your code and make it easy for them to understand and work with it.
