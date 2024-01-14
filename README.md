@@ -253,3 +253,11 @@ This quote emphasizes the importance of initially prioritizing simplicity and un
 
 # 2024-01-13
 - "Keep it simple, stupid!"
+
+# 2024-01-14
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you can become a well-rounded and valuable asset to any team or project.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue from different angles. Break down the problem into smaller, more manageable chunks, then use critical thinking and creativity to come up with innovative solutions. Practice debugging and refactoring code, which will improve your problem solving skills and make you a better programmer. 
+ - 来自助手的补充：
+ 在编程过程中，保持耐心和专注也是非常重要的。学会管理时间，合理安排任务，避免拖延。同时，保持良好的编程习惯，如编写简洁、清晰的代码，注释和文档化，这将有助于提高代码质量和可维护性。
+ 最后，团队合作和沟通能力也是编程智慧的组成部分。与同事、导师和团队成员保持良好的沟通，分享知识和经验，互相学习，共同进步。
