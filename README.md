@@ -277,3 +277,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2024-01-17
 - "Keep it simple, stupid!"
+
+# 2024-01-18
+- Today's programming wisdom: "Simplicity is the ultimate sophistication. In software engineering, strive to write clean and readable code that can be easily understood and maintained by others. Always remember that code is read far more often than it is written. Invest time in modularizing your code, employing consistent naming conventions, and writing clear documentation. Additionally, embrace the power of testing to validate your code's functionality and guard against regression. Lastly, always keep learning and adapting, for the field of programming is perpetually evolving." 
+
+(Translation: "简单是最终的复杂。在软件工程中，力求编写简洁易读、易于他人理解和维护的代码。永远记住，代码被阅读的次数远远超过编写的次数。投入时间对代码进行模块化处理，采用一致的命名规范，并编写清晰的文档。此外，要拥抱测试的力量，以验证代码功能并防止回归。最后，始终保持学习和适应的态度，因为编程领域的变化永不停止。")
