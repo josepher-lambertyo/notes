@@ -379,3 +379,10 @@ Remember to stay focused and avoid multitasking, as it can be detrimental to you
 
 # 2024-02-13
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and potential obstacles. Finally, use tools and programming languages that suit your needs and skills to make your workflow smoother. Remember to take breaks and keep your code clean and organized, which will save you time and headaches in the long run.
+
+# 2024-02-14
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method to help prioritize: Must have, Should have , Could have and Won't have. Must-have tasks should be completed first as they are essential to your overall project success. Should-haves are nice-to- have tasks that can be worked on if time allows. Could-has and won'ts can wait until later in the development cycle. 
+其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以使用番茄工作法来提高效率。这种方法包括25分钟的高强度工作，然后休息5分钟的循环。每完成四个番茄周期后，休息15-30分钟。这有助于保持注意力和精力，从而提高工作效率。
+最后，保持组织。使用版本控制系统（如Git）来管理你的代码。这将帮助你跟踪更改、协作和回滚到之前的版本。此外，使用代码编辑器或IDE（集成开发环境）的代码组织功能，如代码片段、注释和命名约定，以保持代码整洁、易于理解和维护。
